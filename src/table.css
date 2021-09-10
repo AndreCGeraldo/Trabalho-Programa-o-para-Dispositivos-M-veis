@@ -1,0 +1,7 @@
+.far, .fas {
+    cursor: pointer;
+  }
+
+ .table td:nth-child(5) {
+    text-align: center;
+  }
